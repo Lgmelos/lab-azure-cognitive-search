@@ -1,4 +1,4 @@
-## 📚 **Resumo: Organização e Pesquisa de Documentos com Azure Cognitive Search**
+## 📚 **Organização e Pesquisa de Documentos com Azure Cognitive Search**
 
 ### 🧠 **Visão Geral**
 O **Azure Cognitive Search** é um serviço da Microsoft para **pesquisa inteligente de informações** em grandes volumes de dados não estruturados, como documentos, PDFs, páginas da web, imagens, entre outros. Ele combina **indexação de dados** com **capacidades de IA cognitiva** para facilitar a descoberta de conteúdo relevante com mais precisão e contexto.
